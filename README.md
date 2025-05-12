@@ -1,5 +1,5 @@
 # Bachelorarbeit
-Hier werden alle in der Arbeit verwendeten Codes der Arbeit (angehängt als PDF) dargestellt.
+Hier werden alle verwendeten Codes der Arbeit (angehängt als PDF) dargestellt.
 
 Copyright (c) 2018 GitHub, Inc.
 
