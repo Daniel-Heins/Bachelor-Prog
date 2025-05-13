@@ -1,22 +1,21 @@
-# Bachelorarbeit
-Hier werden alle verwendeten Codes der Arbeit (angehängt als PDF) dargestellt.
+# Bachelor's Thesis: Splitting Methods and Exponential Integrators for Parabolic Differential Equations
 
-Copyright (c) 2018 GitHub, Inc.
+This repository contains the MATLAB implementation and full thesis for the numerical study of **splitting methods** and **exponential integrators** applied to **parabolic partial differential equations (PDEs)**. The methods leverage the **Fast Fourier Transform (FFT)** for efficient computation of linear terms and time integration.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Contents
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- 📄 `thesis.pdf` – Full PDF of the bachelor's thesis
+- 📁 `code/` – MATLAB scripts implementing the numerical methods
+- 🔬 Sample simulations and visualizations
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Requirements
+
+- MATLAB (recommended: R2021a or newer)
+- Signal Processing Toolbox (may be required for FFT operations)
+
+## How to Run
+
+The main simulation script is located in the `code/` folder.
+
+```matlab
+main.m
