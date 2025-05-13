@@ -5,17 +5,5 @@ This repository contains the MATLAB implementation and full thesis for the numer
 ## Contents
 
 - 📄 `thesis.pdf` – Full PDF of the bachelor's thesis
-- 📁 `code/` – MATLAB scripts implementing the numerical methods
-- 🔬 Sample simulations and visualizations
-
-## Requirements
-
-- MATLAB (recommended: R2021a or newer)
-- Signal Processing Toolbox (may be required for FFT operations)
-
-## How to Run
-
-The main simulation script is located in the `code/` folder.
-
-```matlab
-main.m
+- 📁 `code/` – MATLAB functions and example scripts with generated plots
+- 📜 `LICENSE` – MIT License for code reuse
