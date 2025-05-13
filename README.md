@@ -1,7 +1,7 @@
-# Bachelor's Thesis: Splitting Methods and Exponential Integrators for Parabolic Differential Equations and efficient algorithms though fast-fourier-transformation
+# Bachelor's Thesis: Splitting Methods and Exponential Integrators for Parabolic Differential Equations and efficient algorithms though Fast Fourier Transform
 
-This repository contains the MATLAB implementation and full thesis for the numerical study of **splitting methods** and **exponential integrators** applied to **parabolic partial differential equations (PDEs)**. 
-The methods leverage the **Fast Fourier Transform (FFT)**.
+This repository contains the MATLAB implementation and full thesis for the numerical study of **splitting methods** and **exponential integrators** applied to **parabolic partial differential equations (PDEs)**
+though the **Fast Fourier Transform (FFT)**.
 
 ## Contents
 
