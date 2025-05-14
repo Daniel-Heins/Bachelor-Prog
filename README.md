@@ -4,8 +4,8 @@ This repository contains the MATLAB implementation and full thesis for the numer
 
 ## Contents
 
-- 📄 `thesis.pdf` – Full PDF of the bachelor's thesis
 - 📁 `exponential integrators/` – MATLAB scripts and functions to sections **exponential integrators**
-- 📁 `splitting methods/` – MATLAB scripts and functions to section **splitting methods**
 - 📁 `plots/` – MATLAB plots generated from example scripts
+- 📁 `splitting methods/` – MATLAB scripts and functions to section **splitting methods**
 - 📜 `LICENSE` – MIT License for code reuse
+- 📄 `thesis.pdf` – Full PDF of the bachelor's thesis
