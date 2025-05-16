@@ -1,3 +1,5 @@
+%% helper function
+
 %% solve the heat-equation
 
 function Split_first = splitting_HE(v_0,tau,N)
