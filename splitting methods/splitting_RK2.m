@@ -1,3 +1,5 @@
+%% helper function
+
 %% RKV of order 2
 
 function Split_second = splitting_RK2(v,g,tau)
