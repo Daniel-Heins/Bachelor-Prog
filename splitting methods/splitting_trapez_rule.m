@@ -1,4 +1,6 @@
-%Trapez Quadratur regel
+%% helper function
+
+%% trapezoidal rule
 function Split_second = splitting_trapez_rule(func_vars, func_g, time_step, t_old, x)
     
     t_new = t_old + time_step;
