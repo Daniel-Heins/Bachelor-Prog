@@ -1,5 +1,5 @@
-%% code for figure 4.4
-clear
+%% code for figure 4.1
+
 %% declaring functions for the example
 
 func_u    = @(t, x)  10 * exp(t) .* x.^3 .* (1-x).^3;
