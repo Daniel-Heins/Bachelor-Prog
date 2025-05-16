@@ -1,3 +1,5 @@
+%% helper function
+
 %% turn function to fourriercoefficients
 
 function coef = func_to_fourrier(funk_werte,N)
